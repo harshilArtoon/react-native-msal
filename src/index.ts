@@ -1,3 +1,4 @@
-import { PublicClientApplication } from './publicClientApplication';
+import { PublicClientApplication } from '../src/publicClientApplication';
 export default PublicClientApplication;
-export * from './types';
+export * from '../src/types';
+//# sourceMappingURL=index.js.map
